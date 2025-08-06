@@ -19,8 +19,8 @@ function App() {
   // Check if it's birthday time
   useEffect(() => {
     const checkBirthday = () => {
-      // Original birthday date: September 8, 2025 at 7:35 PM EST (exactly 21 years from birth)
-      const targetDate = new Date('2025-09-08T19:35:00-04:00');
+          // Original birthday date: September 8, 2025 at 7:28 PM EST (exactly 21 years from birth)
+    const targetDate = new Date('2025-09-08T19:28:00-04:00');
       const now = new Date();
       const difference = targetDate - now;
       

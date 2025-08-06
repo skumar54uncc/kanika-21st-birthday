@@ -322,7 +322,7 @@ const Hero = ({ onBirthdayStart, isBirthday: appIsBirthday }) => {
                     animate={{ opacity: 1 }}
                     transition={{ delay: 0.3 }}
                   >
-                    September 8, 2025 • 11:00 AM EST
+                                         September 8, 2025 • 7:35 PM EST
                   </motion.p>
 
                 <motion.div 
@@ -378,7 +378,7 @@ const Hero = ({ onBirthdayStart, isBirthday: appIsBirthday }) => {
                 >
                   {isBirthday 
                     ? "Today is your special day! 🎂✨" 
-                    : "September 8, 2025 • 11:00 AM EST"
+                                         : "September 8, 2025 • 7:35 PM EST"
                   }
                 </motion.p>
 

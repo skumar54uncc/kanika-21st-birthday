@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kanika-birthday/static/css/main.93138fe6.css",
+    "main.js": "/kanika-birthday/static/js/main.0aa048e0.js",
+    "index.html": "/kanika-birthday/index.html",
+    "main.93138fe6.css.map": "/kanika-birthday/static/css/main.93138fe6.css.map",
+    "main.0aa048e0.js.map": "/kanika-birthday/static/js/main.0aa048e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93138fe6.css",
+    "static/js/main.0aa048e0.js"
+  ]
+}

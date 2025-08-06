@@ -16,7 +16,7 @@ const Header = () => {
   // Check if it's birthday time
   // For demo: Change to 30 seconds from now to test the countdown
   const demoTargetDate = new Date(Date.now() + 30000); // 30 seconds from now
-  // Original: const targetDate = new Date('2025-09-08T11:00:00-04:00');
+  // Original: const targetDate = new Date('2025-09-08T19:35:00-04:00');
   const targetDate = demoTargetDate; // Use demo date for testing
   const now = new Date();
   const isBirthdayTime = now >= targetDate;

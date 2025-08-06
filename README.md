@@ -76,7 +76,7 @@ kanika-birthday/
 ### Changing the Birthday Date
 Edit the target date in `src/App.jsx` and `src/components/Hero.jsx`:
 ```javascript
-const targetDate = new Date('2025-09-08T11:00:00-04:00');
+const targetDate = new Date('2025-09-08T19:35:00-04:00');
 ```
 
 ### Adding Photos

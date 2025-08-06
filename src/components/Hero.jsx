@@ -23,8 +23,8 @@ const Hero = ({ onBirthdayStart, isBirthday: appIsBirthday }) => {
   const audioRef = useRef(null);
 
   useEffect(() => {
-    // Original birthday date: September 8, 2025 at 11:00 AM EST
-    const targetDate = new Date('2025-09-08T11:00:00-04:00'); // America/New_York timezone
+    // Original birthday date: September 8, 2025 at 7:35 PM EST (exactly 21 years from birth)
+    const targetDate = new Date('2025-09-08T19:35:00-04:00'); // America/New_York timezone
 
     const calculateTimeLeft = () => {
       const now = new Date();
@@ -128,8 +128,8 @@ const Hero = ({ onBirthdayStart, isBirthday: appIsBirthday }) => {
   };
 
     // Check if it's birthday time
-  // Original birthday date: September 8, 2025 at 11:00 AM EST
-  const targetDate = new Date('2025-09-08T11:00:00-04:00');
+  // Original birthday date: September 8, 2025 at 7:35 PM EST (exactly 21 years from birth)
+  const targetDate = new Date('2025-09-08T19:35:00-04:00');
   const now = new Date();
   const isBirthdayTime = now >= targetDate || isBirthday || appIsBirthday; // Check all birthday states
 

@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/kanika-21st-birthday/static/css/main.93138fe6.css",
-    "main.js": "/kanika-21st-birthday/static/js/main.96aed189.js",
+    "main.js": "/kanika-21st-birthday/static/js/main.dbe81e56.js",
     "index.html": "/kanika-21st-birthday/index.html",
     "main.93138fe6.css.map": "/kanika-21st-birthday/static/css/main.93138fe6.css.map",
-    "main.96aed189.js.map": "/kanika-21st-birthday/static/js/main.96aed189.js.map"
+    "main.dbe81e56.js.map": "/kanika-21st-birthday/static/js/main.dbe81e56.js.map"
   },
   "entrypoints": [
     "static/css/main.93138fe6.css",
-    "static/js/main.96aed189.js"
+    "static/js/main.dbe81e56.js"
   ]
 }

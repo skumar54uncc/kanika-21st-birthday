@@ -2,7 +2,7 @@
   "name": "kanika-birthday",
   "version": "1.0.0",
   "description": "Kanika's 21st Birthday Celebration Site",
-  "homepage": "https://kanika.publicvm.com",
+  "homepage": "https://skumar54uncc.github.io/kanika-21st-birthday",
   "private": true,
   "dependencies": {
     "framer-motion": "^10.16.4",
